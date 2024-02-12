@@ -4,4 +4,4 @@
 
 Olivier Blanchard (1989), “A Traditional Interpretation of Macroeconomic Fluctuations,” American Economic Review, vol. 79, no. 5, 1146-64.
 
-논문을 replicate 해보았습니다.
+경제학부 전지훈 팀원과 함께 논문을 replicate 해보았습니다.
